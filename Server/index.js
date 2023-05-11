@@ -26,5 +26,5 @@ io.on("connection ==>", (socket) => {
 })
 
 server.listen(4000, () => {
-    console.log('SERVER IS RUNINNG....');
+    console.log('SERVER IS RUNINNG NOW....');
 });
